@@ -132,6 +132,6 @@ This ensures:
 **Dikshit**  
 Data Analyst | Machine Learning Enthusiast  
 
-🏢 Organization: Your Organization Name 
+🏢 Organization: Unified Mentor 
 
 🔗 LinkedIn: [Dikshit](https://www.linkedin.com/in/dikshit-05a9a9244/)
